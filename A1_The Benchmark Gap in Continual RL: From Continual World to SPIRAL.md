@@ -1,3 +1,4 @@
+# The Benchmark Gap in Continual RL: From Continual World to SPIRAL
 Article 1 of 12 | [CL][RL] | Anchor papers: Abel et al. 2023 · Khetarpal et al. 2022 · SPIRAL 2025 · AgarCL 2025 | Series: Continual Intelligence
 ---
 

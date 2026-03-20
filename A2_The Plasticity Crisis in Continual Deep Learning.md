@@ -1,3 +1,4 @@
+# The Plasticity Crisis in Continual Deep Learning
 Article 2 of 12 | [CL] | Anchor papers: Dohare et al. Nature 2024 · Lewandowski et al. Spectral Reg · Lewandowski et al. Fourier · Tang et al. C-CHAIN | Series: Continual Intelligence
 ---
 
