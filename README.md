@@ -1,3 +1,3 @@
 # Continual Intelligence Series
-1. [The Benchmark Gap in Continual RL: From Continual World to SPIRAL](https://datt.substack.com/p/the-benchmark-gap-in-continual-rl)
-2. [The Plasticity Crisis in Continual Deep Learning](https://datt.substack.com/p/the-plasticity-crisis-in-continual)
+1. [The Benchmark Gap in Continual RL: From Continual World to SPIRAL](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A1_The%20Benchmark%20Gap%20in%20Continual%20RL%3A%20From%20Continual%20World%20to%20SPIRAL.md)
+2. [The Plasticity Crisis in Continual Deep Learning](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A2_The%20Plasticity%20Crisis%20in%20Continual%20Deep%20Learning.md)
