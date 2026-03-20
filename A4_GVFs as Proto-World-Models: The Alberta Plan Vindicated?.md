@@ -1,6 +1,6 @@
 # GVFs as Proto-World-Models: The Alberta Plan Vindicated?
 
-Article 4 of 12  | [CL][WM][RL] Anchor papers: Sutton et al. 2011 (Horde) · Khetarpal et al. 2022 · Pan et al. 2025 · Hafner et al. 2023 · Micheli et al. ICLR 2023 | Series: Continual Intelligence
+Article 4 of 12  | [CL][WM][RL] | Anchor papers: Sutton et al. 2011 (Horde) · Khetarpal et al. 2022 · Pan et al. 2025 · Hafner et al. 2023 · Micheli et al. ICLR 2023 | Series: Continual Intelligence
 
 ---
 
