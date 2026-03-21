@@ -1,6 +1,6 @@
 # The Forgetting Transformer: When Architecture Solves Plasticity
 
-Article 5 of 12 | [CL][RL] | Anchor papers: Lin et al. arXiv:2503.02130 · Lin et al. arXiv:2504.06949 · Liu et al. arXiv:2505.24061 · Tang et al. arXiv:2506.00592 | Series: Continual Intelligence**
+Article 5 of 12 | [CL][RL] | Anchor papers: Lin et al. arXiv:2503.02130 · Lin et al. arXiv:2504.06949 · Liu et al. arXiv:2505.24061 · Tang et al. arXiv:2506.00592 | Series: Continual Intelligence
 
 ---
 
