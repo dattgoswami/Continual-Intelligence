@@ -8,8 +8,8 @@
 ## **Part III: The Solutions** 
 5. [The Forgetting Transformer: When Architecture Solves Plasticity](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A5_The%20Forgetting%20Transformer%3A%20When%20Architecture%20Solves%20Plasticity.md) tags: [CL][RL]
 6. [Does RL Teach LLMs to Reason, or Just Refine Them?](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A6_Does%20RL%20Teach%20LLMs%20to%20Reason%2C%20or%20Just%20Refine%20Them%3F.md) tag: [RL][RE]
-7. [Shape of Thought: Why Reasoning Format Matters More Than Correctness]() tag:
-8. [Stable Deep RL at Scale: Gradients, KL, and the Shape of Learning]() tag:
+7. [Shape of Thought: Why Reasoning Format Matters More Than Correctness](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A7_Shape%20of%20Thought%3A%20Why%20Reasoning%20Format%20Matters%20More%20Than%20Correctness.md) tag: [RE][RL]
+8. [Stable Deep RL at Scale: Gradients, KL, and the Shape of Learning](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A8_Stable%20Deep%20RL%20at%20Scale%3A%20Gradients%2C%20KL%2C%20and%20the%20Shape%20of%20Learning.md) tag:
 ## **Part IV: The Frontier** 
 9. []() tag:
 10. []() tag:
