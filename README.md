@@ -7,6 +7,7 @@
 4. [GVFs as Proto-World-Models: The Alberta Plan Vindicated?](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A4_GVFs%20as%20Proto-World-Models%3A%20The%20Alberta%20Plan%20Vindicated%3F.md) tag: [CL][WM][RL]
 ## **Part III: The Solutions** 
 5. [The Forgetting Transformer: When Architecture Solves Plasticity](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A5_The%20Forgetting%20Transformer%3A%20When%20Architecture%20Solves%20Plasticity.md) tags: [CL][RL]
+6. [Does RL Teach LLMs to Reason, or Just Refine Them?]() tag: [RL][RE]
 
 ### Tags
 - [CL] — Continual Learning
