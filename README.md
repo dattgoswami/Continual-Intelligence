@@ -8,10 +8,18 @@
 ## **Part III: The Solutions** 
 5. [The Forgetting Transformer: When Architecture Solves Plasticity](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A5_The%20Forgetting%20Transformer%3A%20When%20Architecture%20Solves%20Plasticity.md) tags: [CL][RL]
 6. [Does RL Teach LLMs to Reason, or Just Refine Them?](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A6_Does%20RL%20Teach%20LLMs%20to%20Reason%2C%20or%20Just%20Refine%20Them%3F.md) tag: [RL][RE]
+7. [Shape of Thought: Why Reasoning Format Matters More Than Correctness]() tag:
+8. [Stable Deep RL at Scale: Gradients, KL, and the Shape of Learning]() tag:
+## **Part IV: The Frontier** 
+9. []() tag:
+10. []() tag:
+11. []() tag:
+12. []() tag:
 
 ### Tags
 - [CL] — Continual Learning
 - [RE] — Reasoning 
 - [RL] — Reinforcement Learning
 - [WM] — World Models
-- [EV] — Evolutionary / Open-Ended Methods
+- [EV] — Evolutionary / Open-Ended Methods 
+- [GI] - General Intelligence 
