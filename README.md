@@ -11,7 +11,7 @@
 7. [Shape of Thought: Why Reasoning Format Matters More Than Correctness](https://datt.substack.com/p/shape-of-thought-why-reasoning-format) tag: [RE][RL]
 8. [Stable Deep RL at Scale: Gradients, KL, and the Shape of Learning](https://datt.substack.com/p/stable-deep-rl-at-scale-gradients) tag: [RL][RE]
 ## **Part IV: The Frontier** 
-9. []() tag:
+9. [Reasoning at Scale: What DeepSeek-R1, ProRL, and Prolonged RL Reveal](https://datt.substack.com/p/reasoning-at-scale-what-deepseek) tag: [RE][RL] 
 10. []() tag:
 11. []() tag:
 12. []() tag:
