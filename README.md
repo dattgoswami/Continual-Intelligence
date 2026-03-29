@@ -12,9 +12,9 @@
 8. [Stable Deep RL at Scale: Gradients, KL, and the Shape of Learning](https://datt.substack.com/p/stable-deep-rl-at-scale-gradients) tag: [RL][RE]
 ## **Part IV: The Frontier** 
 9. [Reasoning at Scale: What DeepSeek-R1, ProRL, and Prolonged RL Reveal](https://datt.substack.com/p/reasoning-at-scale-what-deepseek) tag: [RE][RL] 
-10. []() tag:
-11. []() tag:
-12. []() tag:
+10. [Darwin-Gödel to ShinkaEvolve: The Case for Open-Ended AI](https://datt.substack.com/p/darwin-godel-to-shinkaevolve-the) tag: [GI][RL]
+11. [Thinking Without Tokens: CTM and Inference-Time Compute Beyond CoT](https://datt.substack.com/p/thinking-without-tokens-ctm-and-inference) tag: [RE][EV][FN]
+12. [RL as Educator: Training Teachers, Not Just Students](https://datt.substack.com/p/rl-as-educator-training-teachers) tag: [RL][RE]
 
 ### Tags
 - [CL] — Continual Learning
@@ -23,3 +23,4 @@
 - [WM] — World Models
 - [EV] — Evolutionary / Open-Ended Methods 
 - [GI] - General Intelligence 
+- [FN] - Foundational
